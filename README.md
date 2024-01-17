@@ -69,6 +69,10 @@ php artisan test
 ```
 
 ##  Example of API requests
+#### Live server available until 01.02.2024
+```bash
+https://factory.app-vps.com/
+```
 
 ### Get your order information
 ```bash
