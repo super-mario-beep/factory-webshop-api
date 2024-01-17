@@ -15,7 +15,7 @@ These instructions will help you set up and run the Factory Webshop API locally 
 - [Other dependencies]
 
 ### Installing
-
+#### *Note: Docker also avialable
 1. Clone the repository:
 
     ```bash
