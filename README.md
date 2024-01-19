@@ -79,6 +79,18 @@ https://factory.app-vps.com/
 GET /api/orders/{order_id}
 ```
 
+### Login
+```bash
+POST /login
+```
+
+```bash
+{
+    "email": "mario362800@gmail.com",
+    "password": "password
+}
+```
+
 ### Place new order
 ```bash
 POST /api/orders
